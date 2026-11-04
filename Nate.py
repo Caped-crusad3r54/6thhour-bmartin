@@ -9,18 +9,23 @@ else:
     print("your lame")
 
 gum_tier_list = {
-    "best gum": {
+    "best gum" : {
         "flavor" : "watermelon",
          "brand" : "Wrigley's",
     "popularity" : "massive",
     },
-    "mid gum": {
+    "mid gum" : {
         "flavor" : "peppermint",
          "brand" : "Wrigley's",
     "popularity" : "huge",
     },
-    "not bad gum": {
+    "not bad gum" : {
         "flavor" : "strawberry",
          "brand" : "Wrigley's",
     "popularity" : "mid",
+    },
+    "butt gum" : {
+        "flavor" : "spearmint",
+         "brand" : "Wrigley's",
+    "popularity" : "none",
     }}
